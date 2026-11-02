@@ -1,0 +1,483 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-plaza-cuenca",
+ "source_site": "https://hotelplazacuenca.es/",
+ "source_read_at": "2026-11-02T06:56:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitacion",
+     "doble",
+     "individual",
+     "triple"
+    ],
+    "en": [
+     "rooms",
+     "double",
+     "single",
+     "triple"
+    ],
+    "fr": [
+     "chambres",
+     "double",
+     "individuelle",
+     "triple"
+    ],
+    "de": [
+     "zimmer",
+     "doppel",
+     "einzel",
+     "dreibett"
+    ]
+   },
+   "a": {
+    "es": "Tiene 19 habitaciones: doble dos camas, doble matrimonio, triple, individual y adaptada. Todas con baño completo, wifi gratuito, aire acondicionado, calefacción, servicio de habitaciones y televisión.",
+    "en": "It has 19 rooms: twin double, double, triple, single and accessible. All with full bathroom, free wifi, air conditioning, heating, room service and TV.",
+    "fr": "Il compte 19 chambres : double à deux lits, double à grand lit, triple, individuelle et adaptée. Toutes avec salle de bain complète, wifi gratuit, climatisation, chauffage, service en chambre et télévision.",
+    "de": "Es hat 19 Zimmer: Doppelzimmer mit zwei Betten, mit Ehebett, Dreibett-, Einzel- und barrierefreies Zimmer. Alle mit komplettem Bad, kostenlosem WLAN, Klimaanlage, Heizung, Zimmerservice und Fernseher."
+   },
+   "sources": [
+    {
+     "url": "https://hotelplazacuenca.es/",
+     "quote": "Doble dos camas Doble matrimonio Triple Individual Adaptada"
+    },
+    {
+     "url": "https://hotelplazacuenca.es/habitaciones-en-cuenca/",
+     "quote": "Contamos con 19 habitaciones completas, individuales y dobles, disponen de: Baño completo Wi-Fi gratuita Aire acondicionado Calefacción Servicio de habitaciones Televisión"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato"
+    ],
+    "en": [
+     "pet",
+     "dog",
+     " cat"
+    ],
+    "fr": [
+     "animaux",
+     "animal",
+     "chien",
+     "chat "
+    ],
+    "de": [
+     "haustier",
+     "hund",
+     "katze"
+    ]
+   },
+   "a": {
+    "es": "Sí, aceptan tu pequeña mascota de hasta 4 kilos y de buen comportamiento, avisando en la reserva; tiene un coste por día que publica su web (confírmalo al reservar). No se pueden dejar solas en las habitaciones.",
+    "en": "Yes, they accept your small pet of up to 4 kilos and well behaved, if you mention it when booking; there is a daily charge published on their website (confirm it when you book). Pets cannot be left alone in the rooms.",
+    "fr": "Oui, ils acceptent votre petit animal de 4 kilos maximum et bien élevé, en le signalant lors de la réservation ; un supplément par jour est publié sur leur site (confirmez-le lors de la réservation). Les animaux ne peuvent pas rester seuls dans les chambres.",
+    "de": "Ja, kleine, gut erzogene Haustiere bis 4 Kilo sind bei Angabe in der Buchung willkommen; es gibt eine auf der Website veröffentlichte Tagesgebühr (bitte bei der Buchung bestätigen). Tiere dürfen nicht allein im Zimmer bleiben."
+   },
+   "sources": [
+    {
+     "url": "https://hotelplazacuenca.es/habitaciones-en-cuenca/",
+     "quote": "Aceptamos a tu pequeña mascota de hasta 4 kilos y de buen comportamiento, previo aviso en la reserva"
+    },
+    {
+     "url": "https://hotelplazacuenca.es/habitaciones-en-cuenca/",
+     "quote": "no se podrán dejar solas en las habitaciones"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "moto",
+   "keys": {
+    "es": [
+     "moto",
+     "aparc",
+     "parking"
+    ],
+    "en": [
+     "motorbike",
+     "motorcycle",
+     "park"
+    ],
+    "fr": [
+     "moto",
+     "garer",
+     "parking"
+    ],
+    "de": [
+     "motorrad",
+     "parken",
+     "parkpl"
+    ]
+   },
+   "a": {
+    "es": "Si vienes en moto, el hotel dispone de un espacio privado para aparcarla.",
+    "en": "If you come by motorbike, the hotel has a private space to park it.",
+    "fr": "Si vous venez à moto, l’hôtel dispose d’un espace privé pour la garer.",
+    "de": "Wenn Sie mit dem Motorrad kommen, hat das Hotel einen privaten Stellplatz dafür."
+   },
+   "sources": [
+    {
+     "url": "https://hotelplazacuenca.es/",
+     "quote": "¿Vienes en Moto ? No hay problema Disponemos para ti, de un espacio privado, para que puedas aparcarla"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "cuna",
+   "keys": {
+    "es": [
+     "cuna",
+     "bebe"
+    ],
+    "en": [
+     "cot",
+     "baby",
+     "babies"
+    ],
+    "fr": [
+     "lit bebe",
+     "bebe"
+    ],
+    "de": [
+     "babybett",
+     "baby"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay posibilidad de cunas para bebés bajo petición.",
+    "en": "Yes, baby cots are available on request.",
+    "fr": "Oui, des lits bébé sont disponibles sur demande.",
+    "de": "Ja, Babybetten sind auf Anfrage möglich."
+   },
+   "sources": [
+    {
+     "url": "https://hotelplazacuenca.es/habitaciones-en-cuenca/",
+     "quote": "Posibilidad de cunas para bebés bajo petición"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet"
+    ],
+    "en": [
+     "wifi",
+     "internet"
+    ],
+    "fr": [
+     "wifi",
+     "internet"
+    ],
+    "de": [
+     "wlan",
+     "wifi",
+     "internet"
+    ]
+   },
+   "a": {
+    "es": "Sí, todas las habitaciones tienen wifi gratuito.",
+    "en": "Yes, all rooms have free wifi.",
+    "fr": "Oui, toutes les chambres ont le wifi gratuit.",
+    "de": "Ja, alle Zimmer haben kostenloses WLAN."
+   },
+   "sources": [
+    {
+     "url": "https://hotelplazacuenca.es/habitaciones-en-cuenca/",
+     "quote": "Wi-Fi gratuita"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "check-in",
+   "keys": {
+    "es": [
+     "check",
+     "hora de llegada",
+     "llegada"
+    ],
+    "en": [
+     "check",
+     "arrival"
+    ],
+    "fr": [
+     "arrivee",
+     "check"
+    ],
+    "de": [
+     "check",
+     "ankunft",
+     "anreise"
+    ]
+   },
+   "a": {
+    "es": "Para el check-in, el hotel pide que llames para confirmar la hora de llegada: +34 969 239 477 o +34 683 706 153.",
+    "en": "For check-in, the hotel asks you to call to confirm your arrival time: +34 969 239 477 or +34 683 706 153.",
+    "fr": "Pour l’arrivée, l’hôtel demande d’appeler pour confirmer l’heure : +34 969 239 477 ou +34 683 706 153.",
+    "de": "Für den Check-in bittet das Hotel um einen Anruf zur Bestätigung der Ankunftszeit: +34 969 239 477 oder +34 683 706 153."
+   },
+   "sources": [
+    {
+     "url": "https://hotelplazacuenca.es/",
+     "quote": "Check-in : Por favor, llamar para confirmar la hora de llegada"
+    },
+    {
+     "url": "https://hotelplazacuenca.es/contacto-con-hotel-plaza-cuenca/",
+     "quote": "Phone : +34 683 706 153 +34 969 239 477"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion",
+     "como llegar",
+     "estacion"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location",
+     "get there",
+     "station"
+    ],
+    "fr": [
+     "ou se trouv",
+     "adresse",
+     "emplacement",
+     "gare"
+    ],
+    "de": [
+     "wo liegt",
+     "adresse",
+     "lage",
+     "bahnhof"
+    ]
+   },
+   "a": {
+    "es": "Está en la Calle Sándalo 1, 16004 Cuenca, en el centro de la ciudad, a 1,5 km del casco histórico y a pocos minutos de las estaciones de autobuses y de tren.",
+    "en": "It is at Calle Sándalo 1, 16004 Cuenca, in the city centre, 1.5 km from the old town and a few minutes from the bus and train stations.",
+    "fr": "Il se trouve Calle Sándalo 1, 16004 Cuenca, au centre-ville, à 1,5 km du centre historique et à quelques minutes des gares routière et ferroviaire.",
+    "de": "Es liegt in der Calle Sándalo 1, 16004 Cuenca, im Stadtzentrum, 1,5 km von der Altstadt und wenige Minuten von Bus- und Bahnhof."
+   },
+   "sources": [
+    {
+     "url": "https://hotelplazacuenca.es/contacto-con-hotel-plaza-cuenca/",
+     "quote": "Calle Sándalo 1, 16004 Cuenca, España"
+    },
+    {
+     "url": "https://hotelplazacuenca.es/",
+     "quote": "a poca distancia (1,5km) del casco histórico"
+    },
+    {
+     "url": "https://hotelplazacuenca.es/",
+     "quote": "Ubicado a escasos minutos de la estación de autobuses y de tren"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "que-ver",
+   "keys": {
+    "es": [
+     "que ver",
+     "visitar",
+     "cerca",
+     "monumento"
+    ],
+    "en": [
+     "what to see",
+     "visit",
+     "nearby",
+     "sights"
+    ],
+    "fr": [
+     "que voir",
+     "visiter",
+     "proximite"
+    ],
+    "de": [
+     "sehen",
+     "besichtig",
+     "sehenswurd",
+     "in der nahe"
+    ]
+   },
+   "a": {
+    "es": "Cuenca tiene su casco antiguo declarado Patrimonio de la Humanidad en 1996, con la Catedral y las Casas Colgadas, y más de 10 museos, como el Museo de Arte Abstracto Español.",
+    "en": "Cuenca’s old town was declared a World Heritage Site in 1996, with the Cathedral and the Hanging Houses, and more than 10 museums, such as the Museum of Spanish Abstract Art.",
+    "fr": "La vieille ville de Cuenca est inscrite au patrimoine mondial depuis 1996, avec la cathédrale et les Maisons suspendues, et plus de 10 musées, comme le Musée d’art abstrait espagnol.",
+    "de": "Die Altstadt von Cuenca ist seit 1996 Weltkulturerbe, mit der Kathedrale und den Hängenden Häusern, und es gibt über 10 Museen, etwa das Museum für spanische abstrakte Kunst."
+   },
+   "sources": [
+    {
+     "url": "https://hotelplazacuenca.es/entorno-de-cuenca/",
+     "quote": "En 1996 su casco antiguo fue declarado Patrimonio de la Humanidad"
+    },
+    {
+     "url": "https://hotelplazacuenca.es/entorno-de-cuenca/",
+     "quote": "focalizado en edificios como la Catedral o las Casas Colgadas"
+    },
+    {
+     "url": "https://hotelplazacuenca.es/entorno-de-cuenca/",
+     "quote": "más de 10"
+    },
+    {
+     "url": "https://hotelplazacuenca.es/entorno-de-cuenca/",
+     "quote": "Museo de Arte Abstracto Español"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes ver disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al +34 969 239 477 o escribir a reservas@hotelplazacuenca.es. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can check availability and book on their booking engine (Book button), call +34 969 239 477 or email reservas@hotelplazacuenca.es. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le +34 969 239 477 ou écrire à reservas@hotelplazacuenca.es. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 969 239 477 anrufen oder an reservas@hotelplazacuenca.es schreiben. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://hotelplazacuenca.es/contacto-con-hotel-plaza-cuenca/",
+     "quote": "+34 969 239 477"
+    },
+    {
+     "url": "https://hotelplazacuenca.es/contacto-con-hotel-plaza-cuenca/",
+     "quote": "reservas@hotelplazacuenca.es"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K10",
+   "topic": "bicicletas",
+   "keys": {
+    "es": [
+     "bici"
+    ],
+    "en": [
+     "bicycle",
+     "bike "
+    ],
+    "fr": [
+     "velo"
+    ],
+    "de": [
+     "fahrrad"
+    ]
+   },
+   "a": {
+    "es": "Sí, las bicicletas se admiten previa solicitud.",
+    "en": "Yes, bicycles are allowed on prior request.",
+    "fr": "Oui, les vélos sont acceptés sur demande préalable.",
+    "de": "Ja, Fahrräder sind nach vorheriger Anfrage erlaubt."
+   },
+   "sources": [
+    {
+     "url": "https://hotelplazacuenca.es/",
+     "quote": "Bicicletas : Se admiten previa solicitud"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "actividades",
+   "keys": {
+    "es": [
+     "actividad",
+     "aventura",
+     "barranquismo",
+     "caballo"
+    ],
+    "en": [
+     "activit",
+     "adventure",
+     "canyoning",
+     "horse"
+    ],
+    "fr": [
+     "activite",
+     "aventure",
+     "canyoning",
+     "cheval"
+    ],
+    "de": [
+     "aktivitat",
+     "abenteuer",
+     "canyoning",
+     "reiten"
+    ]
+   },
+   "a": {
+    "es": "Sí, el hotel facilita actividades de aventura con empresas colaboradoras: 4x4, ultraligero, alquiler de bicicletas, caballos, cicloturismo y barranquismo.",
+    "en": "Yes, the hotel arranges adventure activities with partner companies: 4x4, microlight, bike hire, horse riding, cycle touring and canyoning.",
+    "fr": "Oui, l’hôtel facilite des activités d’aventure avec des entreprises partenaires : 4x4, ULM, location de vélos, équitation, cyclotourisme et canyoning.",
+    "de": "Ja, das Hotel vermittelt Abenteueraktivitäten mit Partnerfirmen: 4x4, Ultraleichtflug, Fahrradverleih, Reiten, Radtouren und Canyoning."
+   },
+   "sources": [
+    {
+     "url": "https://hotelplazacuenca.es/entorno-de-cuenca/",
+     "quote": "TE FACILITAMOS LA REALIZACIÓN DE ACTIVIDADES DE AVENTURA EN CUENCA"
+    },
+    {
+     "url": "https://hotelplazacuenca.es/entorno-de-cuenca/",
+     "quote": "4x4 - Ultraligero Alquiler de bicicletas - Caballos Cicloturismo - Barranquismo"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}

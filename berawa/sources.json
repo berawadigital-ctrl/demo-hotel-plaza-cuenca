@@ -1,0 +1,46 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://hotelplazacuenca.es/",
+ "read_at": "2026-11-02T06:56:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://hotelplazacuenca.es/",
+   "sha256": "994db23649d520f7d2151341c67e2f43641db667c697ae4033d8a6f964b77522",
+   "chars": 4149
+  },
+  {
+   "url": "https://hotelplazacuenca.es/contacto-con-hotel-plaza-cuenca/",
+   "sha256": "8207be2cdef96a6ec6c2a5cc1af6914f6fb4166c957cd0f63e727ebfca4ebbaa",
+   "chars": 2099
+  },
+  {
+   "url": "https://hotelplazacuenca.es/entorno-de-cuenca/",
+   "sha256": "d5f96e83c1a7e74b6651646af3605e65f71b31d2a85122b298139b68514a4a55",
+   "chars": 3658
+  },
+  {
+   "url": "https://hotelplazacuenca.es/habitaciones-en-cuenca/",
+   "sha256": "b4767a9d4bdc368133b41f8a9c9a7e61d922a4923481cf6069a94035657ffced",
+   "chars": 2911
+  }
+ ],
+ "other_pages_read": [
+  "https://hotelplazacuenca.es/abierto-a-las-visitas-el-refugio-antiaereo-de-calderon-de-la-barca/",
+  "https://hotelplazacuenca.es/aviso-legal/",
+  "https://hotelplazacuenca.es/ayer-y-hoy-de-la-ceramica-de-cuenca-en-una-exposicion-en-la-casa-zavala/",
+  "https://hotelplazacuenca.es/campeonato-de-espana-de-squash-en-el-polideportivo-san-fernando-de-cuenca/",
+  "https://hotelplazacuenca.es/el-videoarte-de-bill-viola-inunda-el-casco-antiguo-de-cuenca/",
+  "https://hotelplazacuenca.es/entradas-a-1e-conferencias-y-un-concierto-para-celebrar-el-dia-de-la-catedral/",
+  "https://hotelplazacuenca.es/noticias-en-cuenca/",
+  "https://hotelplazacuenca.es/ofertas-en-cuenca/",
+  "https://hotelplazacuenca.es/politica-de-cookies/",
+  "https://hotelplazacuenca.es/politica-de-privacidad/",
+  "https://hotelplazacuenca.es/programacion-de-navidad-2018-en-cuenca/",
+  "https://hotelplazacuenca.es/testimonios-hotel-plaza-cuenca/",
+  "https://hotelplazacuenca.es/un-mes-de-importantes-eventos-en-el-teatro-auditorio-de-cuenca/",
+  "https://hotelplazacuenca.es/un-paseo-en-dron-por-la-serrania-de-cuenca/",
+  "https://hotelplazacuenca.es/un-video-mapping-sobre-el-ayuntamiento-de-cuenca-para-conmemorar-los-40-anos-de-la-constitucion/",
+  "https://hotelplazacuenca.es/visitas-nocturnas-guiadas-a-la-catedral-de-cuenca/"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-plaza-cuenca",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T06:55:00+01:00",
+ "updated_at": "2026-11-02T07:10:00+01:00",
+ "business": {
+  "name": "Hotel Plaza Cuenca",
+  "legal_name": "Hnos. Plaza Pérez, S.A. (aviso legal de su web)",
+  "registry_ids": [
+   "A16025272"
+  ],
+  "url": "https://hotelplazacuenca.es/",
+  "domain": "hotelplazacuenca.es",
+  "municipality": "Cuenca",
+  "province": "Cuenca",
+  "address": "Calle Sándalo 1 · 16004 Cuenca",
+  "phones": [
+   "+34 969 239 477",
+   "+34 683 706 153"
+  ],
+  "emails": [
+   "reservas@hotelplazacuenca.es"
+  ],
+  "sector": "hotel con encanto en el centro de Cuenca"
+ },
+ "rating": {
+  "value": 4.3,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por web)",
+  "url": "https://www.google.com/maps/search/Hotel+Plaza+Cuenca",
+  "date": "2026-10-30",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://booking.avirato.com/?code=2403545&lang=es",
+  "note": "motor de reservas real enlazado desde su web (Avirato, code=2403545), HTTP 200 comprobado el 02/11/2026 con lang=es, en, fr y de."
+ },
+ "audit_original": {
+  "url": "https://hotelplazacuenca.es/",
+  "date": "2026-11-02T06:44:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}

@@ -1,0 +1,420 @@
+{
+ "url": "http://127.0.0.1:37823/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 19 habitaciones: doble dos camas, doble matrimonio, triple, individual y adaptada. Todas con baño completo, wifi gratuito, aire acondi"
+    },
+    {
+     "q": "¿Cuántas habitaciones tiene el hotel?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 19 habitaciones: doble dos camas, doble matrimonio, triple, individual y adaptada. Todas con baño completo, wifi gratuito, aire acondi"
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí, aceptan tu pequeña mascota de hasta 4 kilos y de buen comportamiento, avisando en la reserva; tiene un coste por día que publica su web "
+    },
+    {
+     "q": "¿Dónde aparco la moto?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Si vienes en moto, el hotel dispone de un espacio privado para aparcarla."
+    },
+    {
+     "q": "¿Tenéis cuna para bebés?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, hay posibilidad de cunas para bebés bajo petición."
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, todas las habitaciones tienen wifi gratuito."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Para el check-in, el hotel pide que llames para confirmar la hora de llegada: +34 969 239 477 o +34 683 706 153."
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la Calle Sándalo 1, 16004 Cuenca, en el centro de la ciudad, a 1,5 km del casco histórico y a pocos minutos de las estaciones de aut"
+    },
+    {
+     "q": "¿Qué ver en Cuenca?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Cuenca tiene su casco antiguo declarado Patrimonio de la Humanidad en 1996, con la Catedral y las Casas Colgadas, y más de 10 museos, como e"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes ver disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al +34 969 239 477 o escribir a reservas@hotelplazacue"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes ver disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al +34 969 239 477 o escribir a reservas@hotelplazacue"
+    },
+    {
+     "q": "¿Puedo llevar la bicicleta?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, las bicicletas se admiten previa solicitud."
+    },
+    {
+     "q": "¿Organizáis actividades de aventura?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sí, el hotel facilita actividades de aventura con empresas colaboradoras: 4x4, ultraligero, alquiler de bicicletas, caballos, cicloturismo y"
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 969 239 477 · +34 683 706 153 · reservas@hotelplazacuenca.es."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 969 239 477 · +34 683 706 153 · reservas@hotelplazacuenca.es."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Admitís mascotas?",
+    "¿Dónde aparco la moto?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 19 rooms: twin double, double, triple, single and accessible. All with full bathroom, free wifi, air conditioning, heating, room serv"
+    },
+    {
+     "q": "How many rooms does the hotel have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 19 rooms: twin double, double, triple, single and accessible. All with full bathroom, free wifi, air conditioning, heating, room serv"
+    },
+    {
+     "q": "Do you accept pets?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes, they accept your small pet of up to 4 kilos and well behaved, if you mention it when booking; there is a daily charge published on thei"
+    },
+    {
+     "q": "Where can I park my motorbike?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "If you come by motorbike, the hotel has a private space to park it."
+    },
+    {
+     "q": "Do you have a cot for babies?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, baby cots are available on request."
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, all rooms have free wifi."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "For check-in, the hotel asks you to call to confirm your arrival time: +34 969 239 477 or +34 683 706 153."
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Calle Sándalo 1, 16004 Cuenca, in the city centre, 1.5 km from the old town and a few minutes from the bus and train stations."
+    },
+    {
+     "q": "What to see in Cuenca?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Cuenca’s old town was declared a World Heritage Site in 1996, with the Cathedral and the Hanging Houses, and more than 10 museums, such as t"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking engine (Book button), call +34 969 239 477 or email reservas@hotelplazacuenca.es. This "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking engine (Book button), call +34 969 239 477 or email reservas@hotelplazacuenca.es. This "
+    },
+    {
+     "q": "Can I bring my bicycle?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Yes, bicycles are allowed on prior request."
+    },
+    {
+     "q": "Do you organise adventure activities?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Yes, the hotel arranges adventure activities with partner companies: 4x4, microlight, bike hire, horse riding, cycle touring and canyoning."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 969 239 477 · +34 683 706 153 · reservas@hotelplazacuenca.es."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 969 239 477 · +34 683 706 153 · reservas@hotelplazacuenca.es."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Do you accept pets?",
+    "Where can I park my motorbike?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 19 chambres : double à deux lits, double à grand lit, triple, individuelle et adaptée. Toutes avec salle de bain complète, wifi gr"
+    },
+    {
+     "q": "Combien de chambres a l’hôtel ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 19 chambres : double à deux lits, double à grand lit, triple, individuelle et adaptée. Toutes avec salle de bain complète, wifi gr"
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui, ils acceptent votre petit animal de 4 kilos maximum et bien élevé, en le signalant lors de la réservation ; un supplément par jour est "
+    },
+    {
+     "q": "Où garer ma moto ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Si vous venez à moto, l’hôtel dispose d’un espace privé pour la garer."
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, des lits bébé sont disponibles sur demande."
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, toutes les chambres ont le wifi gratuit."
+    },
+    {
+     "q": "À quelle heure est l’arrivée ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Pour l’arrivée, l’hôtel demande d’appeler pour confirmer l’heure : +34 969 239 477 ou +34 683 706 153."
+    },
+    {
+     "q": "Où se trouve l’hôtel ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il se trouve Calle Sándalo 1, 16004 Cuenca, au centre-ville, à 1,5 km du centre historique et à quelques minutes des gares routière et ferro"
+    },
+    {
+     "q": "Que voir à Cuenca ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "La vieille ville de Cuenca est inscrite au patrimoine mondial depuis 1996, avec la cathédrale et les Maisons suspendues, et plus de 10 musée"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le +34 969 239 477 ou écrire à r"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le +34 969 239 477 ou écrire à r"
+    },
+    {
+     "q": "Puis-je venir avec mon vélo ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Oui, les vélos sont acceptés sur demande préalable."
+    },
+    {
+     "q": "Organisez-vous des activités d’aventure ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Oui, l’hôtel facilite des activités d’aventure avec des entreprises partenaires : 4x4, ULM, location de vélos, équitation, cyclotourisme et "
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 969 239 477 · +34 683 706 153 · reservas@hotelplazacuenca.es."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 969 239 477 · +34 683 706 153 · reservas@hotelplazacuenca.es."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Acceptez-vous les animaux ?",
+    "Où garer ma moto ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es hat 19 Zimmer: Doppelzimmer mit zwei Betten, mit Ehebett, Dreibett-, Einzel- und barrierefreies Zimmer. Alle mit komplettem Bad, kostenlo"
+    },
+    {
+     "q": "Wie viele Zimmer hat das Hotel?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es hat 19 Zimmer: Doppelzimmer mit zwei Betten, mit Ehebett, Dreibett-, Einzel- und barrierefreies Zimmer. Alle mit komplettem Bad, kostenlo"
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ja, kleine, gut erzogene Haustiere bis 4 Kilo sind bei Angabe in der Buchung willkommen; es gibt eine auf der Website veröffentlichte Tagesg"
+    },
+    {
+     "q": "Wo parke ich mein Motorrad?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Wenn Sie mit dem Motorrad kommen, hat das Hotel einen privaten Stellplatz dafür."
+    },
+    {
+     "q": "Gibt es ein Babybett?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, Babybetten sind auf Anfrage möglich."
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja, alle Zimmer haben kostenloses WLAN."
+    },
+    {
+     "q": "Ab wann ist der Check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Für den Check-in bittet das Hotel um einen Anruf zur Bestätigung der Ankunftszeit: +34 969 239 477 oder +34 683 706 153."
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Es liegt in der Calle Sándalo 1, 16004 Cuenca, im Stadtzentrum, 1,5 km von der Altstadt und wenige Minuten von Bus- und Bahnhof."
+    },
+    {
+     "q": "Was kann man in Cuenca sehen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Die Altstadt von Cuenca ist seit 1996 Weltkulturerbe, mit der Kathedrale und den Hängenden Häusern, und es gibt über 10 Museen, etwa das Mus"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 969 239 477 anrufen oder an reservas@hot"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 969 239 477 anrufen oder an reservas@hot"
+    },
+    {
+     "q": "Kann ich mein Fahrrad mitbringen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Ja, Fahrräder sind nach vorheriger Anfrage erlaubt."
+    },
+    {
+     "q": "Bieten Sie Abenteueraktivitäten an?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Ja, das Hotel vermittelt Abenteueraktivitäten mit Partnerfirmen: 4x4, Ultraleichtflug, Fahrradverleih, Reiten, Radtouren und Canyoning."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 969 239 477 · +34 683 706 153 · reservas@hotelplazacuenca.es."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 969 239 477 · +34 683 706 153 · reservas@hotelplazacuenca.es."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Sind Haustiere erlaubt?",
+    "Wo parke ich mein Motorrad?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
